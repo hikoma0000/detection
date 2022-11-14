@@ -6,6 +6,12 @@
 
 > `"reward:reward"`に実行させたいfunctionを入力すること
 
+## 仕組み
+
+……やれたらやる
+
+
+
 ## より良い方法
 
 [open.json](https://github.com/hikoma0000/detection/blob/main/open_block/open.json)をpredicateとして、

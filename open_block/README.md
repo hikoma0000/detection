@@ -2,7 +2,7 @@
 
 ## 基本
 
-[barrel_1.json](https://github.com/hikoma0000/detection/blob/main/open_block/barrel_1.json)をadvancementsとして使用することで、開いたことを検知しつつfunctionを実行できる。
+[barrel_1.json](https://github.com/hikoma0000/detection/blob/main/open_block/barrel_1.json)をadvancementsとして使用することで、樽を開いたことを検知しつつfunctionを実行できる。
 
 > `"reward:reward"`に実行させたいfunctionを入力すること
 
